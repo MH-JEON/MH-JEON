@@ -1,6 +1,6 @@
 - 👋 Hi there! I am a bachelor student at dept. of FFSI(Food and Food Service Industry) and EE(Electronics Engineering), Kyung Pook Nat'l University
 - 👀 I’m interested in Computer & Robot Vision
-- 🧑‍💻 I want to contribute to changing the world by solving unresolved problems
+- 🧑‍💻 I want to contribute to changing the world happy by solving unresolved problems
 
 
 <!---
